@@ -19,6 +19,8 @@
     - [Essay](#essay)
     - [Citation](#citation)
     - [Submission](#submission)
+- [Design Details](#design-details)
+- [License](#license)
 
 <!-- /TOC -->
 
